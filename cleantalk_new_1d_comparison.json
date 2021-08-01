@@ -1,0 +1,200 @@
+[
+	{
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
+		"common": 1
+	},
+	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 500,
+		"common": 250
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 498,
+		"common": 250
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 13044,
+		"common": 250
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 3363,
+		"common": 250
+	},
+	{
+		"name": "cleantalk_new",
+		"category": "abuse",
+		"ips": 250,
+		"common": 250
+	},
+	{
+		"name": "cleantalk_new_30d",
+		"category": "abuse",
+		"ips": 7250,
+		"common": 250
+	},
+	{
+		"name": "cleantalk_new_7d",
+		"category": "abuse",
+		"ips": 1750,
+		"common": 250
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 1
+	},
+	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 1466988,
+		"common": 2
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 10630,
+		"common": 250
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 225580,
+		"common": 250
+	},
+	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 1843059,
+		"common": 2
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 1830744,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 13
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227990644,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_qwest",
+		"category": "organizations",
+		"ips": 15777552,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_twc",
+		"category": "organizations",
+		"ips": 15015936,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 723114097,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338113514,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137260491,
+		"common": 16
+	},
+	{
+		"name": "ip2proxy_px1lite",
+		"category": "anonymizers",
+		"ips": 1825604,
+		"common": 1
+	},
+	{
+		"name": "socks_proxy_1d",
+		"category": "anonymizers",
+		"ips": 9707,
+		"common": 1
+	},
+	{
+		"name": "socks_proxy_30d",
+		"category": "anonymizers",
+		"ips": 46923,
+		"common": 1
+	},
+	{
+		"name": "socks_proxy_7d",
+		"category": "anonymizers",
+		"ips": 24083,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 45
+	},
+	{
+		"name": "sorbs_noserver",
+		"category": "spam",
+		"ips": 22951270,
+		"common": 6
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6375029,
+		"common": 3
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 360351,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 606474,
+		"common": 1
+	}
+]

@@ -1,0 +1,164 @@
+[
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 2
+	},
+	{
+		"name": "dronebl_anonymizers",
+		"category": "anonymizers",
+		"ips": 1466988,
+		"common": 1
+	},
+	{
+		"name": "dronebl_compromised",
+		"category": "attacks",
+		"ips": 67647,
+		"common": 1
+	},
+	{
+		"name": "dronebl_irc_drones",
+		"category": "abuse",
+		"ips": 986520,
+		"common": 1
+	},
+	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 1843059,
+		"common": 2
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 36475,
+		"common": 1
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 1830744,
+		"common": 2
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 1120,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 57182487,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227990644,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_comcast",
+		"category": "organizations",
+		"ips": 45121536,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137260491,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_onion_router",
+		"category": "anonymizers",
+		"ips": 5791,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4280758,
+		"common": 1
+	},
+	{
+		"name": "ipblacklistcloud_recent",
+		"category": "abuse",
+		"ips": 32,
+		"common": 32
+	},
+	{
+		"name": "ipblacklistcloud_recent_30d",
+		"category": "abuse",
+		"ips": 196,
+		"common": 32
+	},
+	{
+		"name": "ipblacklistcloud_recent_7d",
+		"category": "abuse",
+		"ips": 64,
+		"common": 32
+	},
+	{
+		"name": "maxmind_proxy_fraud",
+		"category": "anonymizers",
+		"ips": 583,
+		"common": 1
+	},
+	{
+		"name": "proxylists_1d",
+		"category": "anonymizers",
+		"ips": 5094,
+		"common": 1
+	},
+	{
+		"name": "proxylists_30d",
+		"category": "anonymizers",
+		"ips": 10138,
+		"common": 1
+	},
+	{
+		"name": "proxylists_7d",
+		"category": "anonymizers",
+		"ips": 8263,
+		"common": 1
+	},
+	{
+		"name": "proxz_30d",
+		"category": "anonymizers",
+		"ips": 3338,
+		"common": 1
+	},
+	{
+		"name": "proxz_7d",
+		"category": "anonymizers",
+		"ips": 1201,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 57157614,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 7
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 360351,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 606474,
+		"common": 2
+	}
+]

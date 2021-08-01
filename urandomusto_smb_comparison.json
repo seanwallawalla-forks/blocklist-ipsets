@@ -1,0 +1,182 @@
+[
+	{
+		"name": "cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 605337816,
+		"common": 10
+	},
+	{
+		"name": "cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 11740,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 14
+	},
+	{
+		"name": "dronebl_worms_bots",
+		"category": "malware",
+		"ips": 233005,
+		"common": 1
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 19333912,
+		"common": 10
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 19328512,
+		"common": 10
+	},
+	{
+		"name": "firehol_anonymous",
+		"category": "anonymizers",
+		"ips": 1843059,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 618531802,
+		"common": 10
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9278442,
+		"common": 2
+	},
+	{
+		"name": "firehol_proxies",
+		"category": "anonymizers",
+		"ips": 1830744,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 57182487,
+		"common": 30
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 60190,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_cidr_report_bogons",
+		"category": "unroutable",
+		"ips": 605337816,
+		"common": 10
+	},
+	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 12262,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227990644,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 338113514,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137260491,
+		"common": 11
+	},
+	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 19327488,
+		"common": 10
+	},
+	{
+		"name": "ip2proxy_px1lite",
+		"category": "anonymizers",
+		"ips": 1825604,
+		"common": 1
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 3986,
+		"common": 13
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2502,
+		"common": 3
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 57157614,
+		"common": 30
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6375029,
+		"common": 1
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 19326464,
+		"common": 10
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 2658,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_dns",
+		"category": "attacks",
+		"ips": 67,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_ntp",
+		"category": "attacks",
+		"ips": 72,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_rdp",
+		"category": "attacks",
+		"ips": 133,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 299,
+		"common": 1
+	}
+]
